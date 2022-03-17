@@ -1,0 +1,6 @@
+server
+    service = tudo que é regra de negócio ou processamento
+    controller = intermediar a camada de apresentação e a de negócio
+    route = camada de apresentação
+    server = repsonsável por configurar o servidor (mas não instancia)
+    index = instancia
